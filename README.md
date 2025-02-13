@@ -29,3 +29,13 @@ The  explorative data analysis involved exploring the sleep and lifestyle datase
 1. Are there notable differences in sleep patterns based on occupation?
 2. How does heart rate impact sleep quality and duration?
 3. Does stress level significantly influence sleep quality?
+4. How does physical activity correlate with sleep health?
+
+
+ ### Data Analysis
+
+
+ ### Result Analysis
+ The result of the analysis is as follows:
+ 1. I found that there was a huge variation in sleep patterns in occupations such as Doctors, Nurses, and software engineers compared to occupation such as sales managers, managers.
+   
