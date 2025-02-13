@@ -41,7 +41,7 @@ The  explorative data analysis involved exploring the sleep and lifestyle datase
  
  The result of the analysis is as follows:
  
- 1. I found that sleep patterns vary greatly among occupations such as Doctors, Nurses, and software engineers compared to occupations such as sales managers, managers, scientists, and teachers. The high variation in sleep patterns among nurses and doctors, most especially, means that their sleep schedules are quite irregular. This could be due to shift work, long hours, or varying work schedules.
+ 1. I found that sleep patterns vary greatly among occupations such as Doctors, Nurses, and software engineers compared to occupations such as sales managers, managers, scientists, and teachers. 
   
 2.  Discovered that heart rate has a significant impact on sleep quality and also in duration. The more the heart rate the less the sleep quality. and this is because during sleep heart rate becomes slower thereby increasing sleep quality. Cases where heart rates are high can lead to anxiety and stress leading to poor sleep quality.
    
@@ -51,6 +51,11 @@ The  explorative data analysis involved exploring the sleep and lifestyle datase
 
 
 ### Recommendation
-
+1. The high variation in sleep patterns among nurses and doctors, most especially, means that their sleep schedules are quite irregular. This could be due to shift work, long hours, or varying work schedules.
+   
+2. Higher heart rates are linked to poorer sleep quality, as a slower heart rate during sleep promotes deeper rest. Elevated heart rates can contribute to anxiety and stress, further disrupting sleep. Employees should regularly monitor their heart rates to support better sleep and overall well-being.
+   
+4. High stress levels make it harder to fall asleep, cause frequent awakenings, and disrupt deep sleep due to elevated cortisol levels. To support well-being and productivity, employers should promote flexible schedules, encourage regular breaks, foster open communication, and implement stress management programs.
+   
 
    
