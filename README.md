@@ -1,6 +1,24 @@
 # Sleep and lifestyle analysis
 
 
+## Table of content
+
+1-[Project overview](#project-overview)
+
+2-[Data sources](#data-sources)
+
+3-[Tools ](#tools) 
+
+4-[Data cleaning](#data-cleaning-/preparation)
+
+5.[Exploratory data analysis](#exploratory-data-analysis)
+
+6-[Data Analysis](#data-analysis)
+
+7- [Result Analysis](#result-analysis)
+
+8-[Recommendation](#recommendation)
+
 ### Project Overview
 
 Exploring the Interplay between Heart Rate, Stress Levels, and Lifestyle Factors to Identify the Varied Patterns Affecting Sleep Quality Meaningful insights that lead to better health and wellness decisions.
