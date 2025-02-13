@@ -33,6 +33,11 @@ The  explorative data analysis involved exploring the sleep and lifestyle datase
 
 
  ### Data Analysis
+ ![variation btw sleep and occupation](https://github.com/user-attachments/assets/07f12b3a-7a41-4c99-9426-480e42e9efd1)
+ ![impact of stress level on sleep duration and quality](https://github.com/user-attachments/assets/f2cfcdfd-34fd-4397-a5aa-f9bd45748876)
+![heart rate and sleep quality](https://github.com/user-attachments/assets/a1f8c394-19c7-4a32-96ff-4e69671fdc9d)
+
+
 
  
 
