@@ -38,9 +38,19 @@ The  explorative data analysis involved exploring the sleep and lifestyle datase
 
 
  ### Result Analysis
+ 
  The result of the analysis is as follows:
- 1. I found that there was a huge variation in sleep patterns among occupations such as Doctors, Nurses, and software engineers compared to occupations such as sales managers, managers, scientists, and teachers. A high variation in sleep patterns among nurses and doctors, most especially, means that their sleep schedules are quite irregular. This could be due to shift work, long hours, or varying work schedules.
-    2. Discovered that heart rate has a significant impact on sleep quality and also in duration. The more the heart rate the less the sleep quality. and this is because during sleep heart rate becomes slower thereby increasing sleep quality. Cases where heart rates are high can lead to anxiety and stress leading to poor sleep quality.
-    3. Stress level was discovered to have a contributing effect on sleep quality.
-    4. Physical activity was discovered not to affect sleep health at all.
+ 
+ 1. I found that sleep patterns vary greatly among occupations such as Doctors, Nurses, and software engineers compared to occupations such as sales managers, managers, scientists, and teachers. The high variation in sleep patterns among nurses and doctors, most especially, means that their sleep schedules are quite irregular. This could be due to shift work, long hours, or varying work schedules.
+  
+2.  Discovered that heart rate has a significant impact on sleep quality and also in duration. The more the heart rate the less the sleep quality. and this is because during sleep heart rate becomes slower thereby increasing sleep quality. Cases where heart rates are high can lead to anxiety and stress leading to poor sleep quality.
+   
+3. Stress level was discovered to have a contributing effect on sleep quality.
+    
+4. Physical activity was discovered not to affect sleep health at all.
+
+
+### Recommendation
+
+
    
