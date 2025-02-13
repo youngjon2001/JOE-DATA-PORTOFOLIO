@@ -7,7 +7,7 @@ Exploring the Interplay between Heart Rate, Stress Levels, and Lifestyle Factors
 
 ### Data sources
 
-sleep and lifestyle data; The primary data was obtained from kaggle site [link here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+sleep and lifestyle data; The primary data was obtained from Kaggle site [link here](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 ### Tools 
 
@@ -21,3 +21,11 @@ The initial data preparation is as follows;
 1. Data Loading and Inspections
 2. Handling missing values
 3. Data cleaning and formatting
+
+### Exploratory data analysis
+
+The  explorative data analysis involved exploring the sleep and lifestyle dataset to answer key questions such as;
+
+1. Are there notable differences in sleep patterns based on occupation?
+2. How does heart rate impact sleep quality and duration?
+3. Does stress level significantly influence sleep quality?
